@@ -8,7 +8,7 @@ public class UserInfo {
 
     private boolean isActive ; 
 
-    public   UserInfo(String name , int age , String email ,boolean isActive   ) {
+    public UserInfo(String name , int age , String email ,boolean isActive   ) {
         this.name = name ;
         this.age = age ; 
         this.email = email ; 
