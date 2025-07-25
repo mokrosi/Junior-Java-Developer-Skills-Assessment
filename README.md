@@ -12,4 +12,4 @@ The tasks cover:
 - 🧵 Static vs non-static behavior
 - 🔃 Git workflow and documentation
 
-## 📂 Folder Structure
+
